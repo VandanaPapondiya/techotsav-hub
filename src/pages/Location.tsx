@@ -63,7 +63,7 @@ const Location = () => {
     {
       icon: Phone,
       title: "Phone",
-      content: "+91 731 4243333"
+      content: "+91 8103126630"
     },
     {
       icon: Mail,
@@ -73,7 +73,7 @@ const Location = () => {
     {
       icon: Clock,
       title: "Event Hours",
-      content: "December 15-16, 2024 • 9:00 AM to 6:00 PM"
+      content: "September 18-19, 2025 • 9:00 AM to 6:00 PM"
     }
   ];
 
@@ -209,7 +209,7 @@ const Location = () => {
                     </Button>
                     
                     <Button variant="outline" className="w-full justify-start" asChild>
-                      <a href="tel:+917314243333">
+                      <a href="tel:+918103126630">
                         <Phone className="mr-2 w-4 h-4" />
                         Call Venue
                       </a>
