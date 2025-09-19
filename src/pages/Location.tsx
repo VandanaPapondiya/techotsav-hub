@@ -200,7 +200,7 @@ const Location = () => {
                 <CardContent>
                   <div className="space-y-3">
                     <Button className="w-full justify-start glow-primary" asChild>
-                      <a href="https://maps.google.com/directions/to/Acropolis+Institute+of+Technology+and+Research,+Indore" 
+                      <a href="https://www.google.com/maps/dir//Acropolis+Institute+Of+Technology+And+Research+-+AITR,+Bypass+Road,+Square,+Manglaya+Sadak,+Indore,+Madhya+Pradesh+453771/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x39631cf455b4cec3:0x426141aa8141f7a5?sa=X&ved=1t:57443&ictx=111" 
                          target="_blank" rel="noopener noreferrer">
                         <MapPin className="mr-2 w-4 h-4" />
                         Get Directions
