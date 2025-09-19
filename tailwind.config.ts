@@ -12,6 +12,10 @@ export default {
         "2xl": "1400px",
       },
     },
+    fontFamily: {
+      inter: ['Inter', 'system-ui', 'sans-serif'],
+      mono: ['JetBrains Mono', 'Monaco', 'Consolas', 'monospace'],
+    },
     extend: {
       colors: {
         border: "hsl(var(--border))",
